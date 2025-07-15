@@ -1,0 +1,3 @@
+!rm -r my_folder
+
+!zip -r my_folder.zip my_folder
