@@ -1,3 +1,5 @@
-!rm -r my_folder
+!rm -r my_folder                        # удалние папок
 
-!zip -r my_folder.zip my_folder
+mkdir -p /content/output /content/pdfs  # создание папок
+
+!zip -r my_folder.zip my_folder         # архивация папки
